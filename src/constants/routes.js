@@ -1,0 +1,9 @@
+export const LANDING = '/';
+export const SIGN_UP = '/signup';
+export const SIGN_IN = '/signin';
+export const HOME = '/home';
+export const TREE = '/tree';
+export const PM = '/pm';
+export const WEB = '/web';
+export const AI = '/ai';
+export const APP = '/app';
